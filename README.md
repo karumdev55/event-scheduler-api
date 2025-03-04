@@ -1,6 +1,6 @@
 # Scheduled Events API
 
-This project is a server-side application that provides an API for managing scheduled events. The API supports creating, updating, and retrieving events that occur once or recur weekly on specific days. A simple UI mockup is included as a demonstration of the intended frontend design.
+This project is a server-side application that provides an API for managing scheduled events. The API supports creating, updating, and retrieving events that occur once or recur weekly on specific days. A simple UI mockup (screenshot) is included as a demonstration of the intended frontend design.
 
 ## Features
 
